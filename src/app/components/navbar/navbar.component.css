@@ -1,0 +1,15 @@
+.example-spacer {
+    flex: 1 1 auto;
+  }
+
+.menubtn{
+    margin: 0;
+    padding: 10px;
+    float: right;
+} 
+
+.logo {
+    padding: 10px;
+    height: 100px;
+    width: 100px;
+}

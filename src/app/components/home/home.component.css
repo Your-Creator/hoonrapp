@@ -1,0 +1,16 @@
+.card {
+    max-width: 400px;
+    margin: auto;
+  }
+  
+  .card-img{
+    margin: auto;
+    max-width: 100%;
+    padding: 20px;
+  }
+
+  .card-header-image {
+    background-image: url(/dp.jpg);
+    background-size: cover;
+  }
+  
