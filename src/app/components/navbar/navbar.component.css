@@ -13,3 +13,9 @@
     height: 100px;
     width: 100px;
 }
+
+.mr-5{
+    font-size: 130%;
+    margin: auto;
+    padding: 5px;
+}
